@@ -1,3 +1,3 @@
-# Vocabulary richness is decreased in Alzheimer's Disease
+# Decline in vocabulary richness in individuals with Alzheimer's disease
 
-###### This is my code from my recent paper. Many thanks to Dr Tanya Dash and Joshua Chow for their support all these years <3
+###### This is my code from my recent paper: https://doi.org/10.59720/24-289
